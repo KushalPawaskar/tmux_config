@@ -9,7 +9,7 @@ tmux ls                         (to view all sessions)
 •Session
 C-b d               (detach from a session)
 C-b s               (switch between sessions)
-C-b r               (reload config)
+C-b r               (reload config)     # does not work
 C-b I               (install plugins)
 C-b U               (update plugins)
 C-b C-s             (save session manually)
@@ -50,3 +50,5 @@ C-c                 (exit copy mode)
 •Vim mode is enabled in copy mode
 
 •Press C-b before typing : commands
+
+•Refer https://tmuxcheatsheet.com/
